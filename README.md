@@ -2,11 +2,9 @@
 > Estudante de Análise e Desenvolvimento de Sistemas
 ---
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
-(linkedin.com/in/juliasarai)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)]
-(mailto:juliasarai.tp@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://canva.link/5amw7ovecicrdew)
+- LinkedIn: https://linkedin.com/in/juliasarai
+- Gmail: juliasarai.tp@gmail.com
+- Currículo: https://canva.link/5amw7ovecicrdew
 ---
 ### 󰞵 Sobre
 Atualmente cursando o segundo período de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Segurança da Informação, Gestão de Projetos e Inteligência Artificial.
@@ -16,11 +14,10 @@ Atualmente cursando o segundo período de Análise e Desenvolvimento de Sistemas
 ---
 ### 🛠 Minhas Ferramentas Favoritas
 #### 💻 Linguagens e Tecnologias
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge
-&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- Phyton
+- C
+- HTML5
+- CSS3
 ---
 ### 📂 Portfólio de Projetos
 #### 󰳕 Desenvolvimento Front-End para Web
@@ -29,7 +26,7 @@ Atualmente cursando o segundo período de Análise e Desenvolvimento de Sistemas
 | **Site Básico em HTML5** | Criação de site básico com 5 páginas em HTML5. | [Ver Projeto](./AT1-Paginas-HTML/) |
 | **Deploy de Site** | Publicação de site no github pages. | [Ver Projeto](./AT2-Deploy-de-Site/) |
 | **Calculadora de IMC** | Desenvolvimento de uma calculadora de IMC com JavaScript. | [Ver Projeto](./AT3-Calculadora-IMC/) |
-| **Site com Bootstrap** | Aplicação do Bootstrap para o desenvolvimento de um site com múltiplas páginas. | [Ver Projeto](./AT4-Site Multi-Paginas-Bootstrap/) |
+| **Site com Bootstrap** | Aplicação do Bootstrap para o desenvolvimento de um site com múltiplas páginas. | [Ver Projeto](./AT4-Site-Multi-Paginas-Bootstrap/) |
 | **Desenvolvimento com IA** | Copilotando o desenvolvimento front-end com IA. | [Ver Projeto](./AT5-Front-End-Copilotado-com-IA/) |
 ---
 ### 🏗 Estrutura do Repositório
