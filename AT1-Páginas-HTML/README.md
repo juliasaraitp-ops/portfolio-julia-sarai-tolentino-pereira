@@ -21,7 +21,7 @@ O projeto alcançou resultados sólidos em ambiente de teste, demonstrando a efi
 * **Visualização de Categorias:** Implementei menus e seções organizadas que mostram como o site agrupa os tipos de cafés e acompanhamentos por afinidade de sabor e perfil de consumo.
 
 ## 🧠 Declaração de Uso Ético da IA
-Este projeto utilizou inteligência artificial estritamente como ferramenta de suporte tecnológico para o auxílio na estruturação inicial das tags semânticas do HTML5 e na organização do layout e navegação entre as 5 páginas da cafeteria. Todo o código gerado foi revisado, testado e compreendido por mim, garantindo a minha responsabilidade integral sobre a autoria final, integridade e funcionamento da aplicação.
+Este projeto utilizou a inteligência artificial Gemini estritamente como ferramenta de suporte tecnológico para o auxílio na estruturação inicial das tags semânticas do HTML5 e na organização do layout e navegação entre as 5 páginas da cafeteria. Todo o código gerado foi revisado, testado e compreendido por mim, garantindo a minha responsabilidade integral sobre a autoria final, integridade e funcionamento da aplicação.
 
 ## 💻 Deploy do projeto
 [Clique para acessar](https://juliasaraitp-ops.github.io/Site-Cafeteria/)
