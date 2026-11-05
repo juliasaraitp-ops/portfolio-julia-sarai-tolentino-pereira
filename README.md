@@ -31,6 +31,14 @@ Atualmente cursando o segundo período de Análise e Desenvolvimento de Sistemas
 ---
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
-- `root/`: Arquivo de apresentação principal.
-- `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o
-README específico do projeto acadêmico.
+## 🏗️ Estrutura do Repositório
+
+Abaixo, a organização deste repositório para facilitar a navegação:
+- `README.md`: Arquivo de apresentação principal.
+- [`/AT1-Páginas-HTML/`](./AT1-Páginas-HTML/): Atividade 1, site Básico em HTML5.
+- [`/AT2-Deploy-de-Site/`](./AT2-Deploy-de-Site/): Atividade 2, deploy (publicação) de site no github pages.
+- [`/AT3-Calculadora-IMC/`](./AT3-Calculadora-IMC/): Atividade 3, calculadora de IMC.
+- [`/AT4-Site-Multi-Paginas-Bootstrap/`](./AT4-Site-Multi-Paginas-Bootstrap/): Atividade 4, aplicação do Bootstrap para o desenvolvimento de um site com múltiplas páginas.
+- [`/AT5-Front-End-Copilolatdo-com-IA/`](./AT5-Front-End-Copilotado-com-IA/): Atividade 5, copilotando o desenvolvimento front-end com IA.
+
+Cada pasta contém o código-fonte, a documentação e o README específico do projeto acadêmico.
