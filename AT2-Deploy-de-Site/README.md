@@ -1,43 +1,29 @@
-# 🎬 Nome do Projeto
+# 🎬 Deploy de Site no Github Pages
+
 
 ## 📝 Descrição do Projeto
-Este projeto consiste em um motor de recomendação inteligente que
-utiliza técnicas de filtragem colaborativa e baseada em conteúdo. O
-objetivo principal é mitigar a "paralisia de escolha", oferecendo aos
-usuários sugestões personalizadas com base em seu histórico de
-visualização e preferências de gênero.
-Desenvolvido como parte das disciplinas de **Desenvolvimento Front-End
-Para Web (2026.2)**, o sistema processa grandes volumes de dados
-(datasets de filmes e avaliações) para identificar padrões de
-comportamento e similaridades entre títulos, utilizando algoritmos de
-aprendizado de máquina para prever a nota que um usuário daria a um
-filme ainda não assistido.
+Esta atividade teve como objetivo praticar a publicação (deploy) de um site utilizando o GitHub Pages. 
+
+Desenvolvida como parte da disciplina de **Desenvolvimento Front-End Para Web (2026.2)**, a atividade consistiu em publicar um site online e registrar o link da publicação em uma planilha compartilhada com os links de toda a turma.
+
 
 ## 🚀 Tecnologias Utilizadas
-* **Linguagem:** HTML5, CSS e JavaScript
-* **Bibliotecas:** Bootstrap
-* **Ferramentas:** VSCode
-* **Modelo de IA:** Gemini
-  
+* **Linguagem:** HTML5 e CSS 
+* **Ferramentas:** VS Code, Git e GitHub 
+* **Hospedagem:** GitHub Pages
+
+
 ## 📊 Resultados e Aprendizados
-O projeto alcançou resultados sólidos em ambiente de teste, demonstrando
-a eficácia do modelo híbrido.
-* **O modelo atingiu 92% de acurácia** nos testes de validação.
-* **Redução de Ruído:** Aprendi a aplicar técnicas de limpeza e
-normalização de dados para melhorar a performance dos algoritmos.
-* **Visualização de Clusters:** Implementei gráficos que mostram como o
-sistema agrupa filmes por afinidade.
+* Aprendi a publicar um site gratuitamente com o GitHub Pages.
+* Entendi como o repositório se conecta ao endereço público do site.
+ * Aprendi a conferir se o site publicado abre corretamente pelo link.
+
 
 ## 🧠 Declaração de Uso Ético da IA
-Este projeto utilizou inteligência artificial ([Nome do Modelo, ex:
-ChatGPT / GitHub Copilot]) estritamente como ferramenta de suporte
-tecnológico para [Finalidade, ex: estruturação inicial do HTML e
-depuração de funções em JavaScript]. Todo o código gerado foi revisado,
-testado e compreendido por mim, garantindo a minha responsabilidade
-integral sobre a autoria final, integridade e funcionamento da
-aplicação.
+Este projeto utilizou a inteligência artificial Gemini estritamente como ferramenta de suporte tecnológico para o auxílio na estruturação inicial das tags semânticas do HTML5 e na organização do layout e navegação entre as 5 páginas da cafeteria.. Todo o conteúdo gerado foi revisado, testado e compreendido por mim, garantindo a minha responsabilidade integral sobre a autoria final
+
 
 ## 💻 Deploy do projeto
-[Clique para acessar](https://seu-usuario.github.io/xxxxxxxxx/)
+[Clique para acessar](https://juliasaraitp-ops.github.io/Site-Cafeteria/)
 ---
-[Voltar ao início](https://github.com/seu-usuario/portfolio-usuario)
+[Voltar ao início](https://github.com/juliasaraitp-ops/portfolio-julia-sarai-tolentino-pereira)
