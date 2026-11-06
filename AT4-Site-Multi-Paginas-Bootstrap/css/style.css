@@ -1,0 +1,48 @@
+body {
+    background-color: #ebddf1 !important;
+    color: black !important;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }   
+
+.bg-body-tertiary{
+    background-color: #dab4ec !important;
+}
+
+/* Textos e links em marrom suave */
+.bg-body-tertiary .nav-link, 
+.bg-body-tertiary .navbar-brand,
+.bg-body-tertiary p {
+    color: black !important;
+}
+
+/* Efeito de cor ao passar o mouse (hover) nos links da navbar */
+.bg-body-tertiary .nav-link:hover {
+    color: rgb(131, 19, 131) !important;
+    text-decoration: underline
+}
+
+.nav-link.active{
+    font-weight: bold;
+}
+
+/*Títulos (h1, h2, h3) com o marrom suave ou verde escuro */
+h1, h2, h3, h4, h5, h6 {
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+}
+
+/* Classe personalizada para os botões do site */
+.btn-patas {
+    background-color: #5E9C7E !important;
+    border-color: #4C8468 !important;
+    color: #ffffff !important;
+    font-weight: 600;
+}
+
+.btn btn-success:hover, 
+.btn btn-success:focus {
+    background-color: #4C8468 !important;
+    border-color: #4C8468 !important;
+    color: #FFFFFF !important;
+}
