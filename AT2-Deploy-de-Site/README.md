@@ -3,14 +3,13 @@
 
 ## 📝 Descrição do Projeto
 Esta atividade teve como objetivo praticar a publicação (deploy) de um site utilizando o GitHub Pages. 
-
 Desenvolvida como parte da disciplina de **Desenvolvimento Front-End Para Web (2026.2)**, a atividade consistiu em publicar um site online e registrar o link da publicação em uma planilha compartilhada com os links de toda a turma.
 
 
 ## 🚀 Tecnologias Utilizadas
 * **Linguagem:** HTML5 e CSS 
 * **Ferramentas:** VS Code, Git e GitHub 
-* **Hospedagem:** GitHub Pages
+* **Modelo de IA:** Gemini
 
 
 ## 📊 Resultados e Aprendizados
