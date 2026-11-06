@@ -1,43 +1,33 @@
-# 🎬 Nome do Projeto
+# 🎬 Calculadora de IMC
 
 ## 📝 Descrição do Projeto
-Este projeto consiste em um motor de recomendação inteligente que
-utiliza técnicas de filtragem colaborativa e baseada em conteúdo. O
-objetivo principal é mitigar a "paralisia de escolha", oferecendo aos
-usuários sugestões personalizadas com base em seu histórico de
-visualização e preferências de gênero.
-Desenvolvido como parte das disciplinas de **Desenvolvimento Front-End
-Para Web (2026.2)**, o sistema processa grandes volumes de dados
-(datasets de filmes e avaliações) para identificar padrões de
-comportamento e similaridades entre títulos, utilizando algoritmos de
-aprendizado de máquina para prever a nota que um usuário daria a um
-filme ainda não assistido.
+Este projeto consiste na criação de uma calculadora de IMC (Índice de Massa Corporal) desenvolvida com HTML e JavaScript. O usuário informa o peso (em kg) e a altura (em metros), e o sistema calcula o IMC pela fórmula **peso ÷ (altura × altura)**, exibindo o resultado e a classificação para adultos:
+
+* Menor que 18,5: Baixo peso
+* 18,5 a 24,9: Peso normal
+* 25 a 29,9: Sobrepeso
+* 30 a 34,9: Obesidade grau I
+* 35 a 39,9: Obesidade grau II
+* 40 ou mais: Obesidade grau III
+
+Desenvolvido como parte da disciplina de **Desenvolvimento Front-End Para Web (2026.2)**.
 
 ## 🚀 Tecnologias Utilizadas
-* **Linguagem:** HTML5, CSS e JavaScript
-* **Bibliotecas:** Bootstrap
-* **Ferramentas:** VSCode
+* **Linguagem:** HTML5, CSS e JavaScript 
+* **Ferramentas:** VS Code, Git e GitHub 
 * **Modelo de IA:** Gemini
-  
+
 ## 📊 Resultados e Aprendizados
-O projeto alcançou resultados sólidos em ambiente de teste, demonstrando
-a eficácia do modelo híbrido.
-* **O modelo atingiu 92% de acurácia** nos testes de validação.
-* **Redução de Ruído:** Aprendi a aplicar técnicas de limpeza e
-normalização de dados para melhorar a performance dos algoritmos.
-* **Visualização de Clusters:** Implementei gráficos que mostram como o
-sistema agrupa filmes por afinidade.
+* O algoritmo atingiu 100% de precisão nos testes de validação matemática para diferentes faixas de peso e altura.
+* Aprendi a criar campos de entrada (peso e altura) em HTML.
+* Aprendi a ler os valores dos campos e fazer o cálculo com JavaScript.
+* Aprendi a usar condicionais (`if / else`) para classificar o resultado.
+* Aprendi a exibir o resultado na página por meio de uma tag HTML.
 
 ## 🧠 Declaração de Uso Ético da IA
-Este projeto utilizou inteligência artificial ([Nome do Modelo, ex:
-ChatGPT / GitHub Copilot]) estritamente como ferramenta de suporte
-tecnológico para [Finalidade, ex: estruturação inicial do HTML e
-depuração de funções em JavaScript]. Todo o código gerado foi revisado,
-testado e compreendido por mim, garantindo a minha responsabilidade
-integral sobre a autoria final, integridade e funcionamento da
-aplicação.
+Este projeto utilizou inteligência artificial Gemini estritamente como ferramenta de suporte tecnológico para o auxílio na estruturação inicial das tags semânticas do HTML e na depuração da lógica matemática da função em JavaScript. Todo o código gerado foi revisado, testado e compreendido por mim, garantindo a minha responsabilidade integral sobre a autoria final, integridade e funcionamento da aplicação.
 
 ## 💻 Deploy do projeto
-[Clique para acessar](https://seu-usuario.github.io/xxxxxxxxx/)
+[Clique para acessar](https://juliasaraitp-ops.github.io/calculadora-imc/)
 ---
-[Voltar ao início](https://github.com/seu-usuario/portfolio-usuario)
+[Voltar ao início](https://github.com/juliasaraitp-ops/portfolio-julia-sarai-tolentino-pereira)
