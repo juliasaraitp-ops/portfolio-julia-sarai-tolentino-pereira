@@ -9,7 +9,8 @@
 ---
 
 ### 📚 Sobre
-Atualmente cursando o segundo período de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Segurança da Informação, Gestão de Projetos e Inteligência Artificial.
+Atualmente cursando o segundo período do curso de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo. Sou apaixonada por usar a tecnologia para criar soluções inovadoras e resolver desafios reais. Tenho grande interesse em áreas como Segurança da Informação, Gestão de Projetos e Inteligência Artificial.
+
 * **Habilidades Técnicas:** Conhecimento em Python, C, HTML, CSS.
 * **Habilidades Socioemocionais:** Trabalho em equipe, organização, proatividade, boa comunicação, rápido aprendizado e em busca de aprendizado contínuo.
 * **Experiência/Projetos Relevantes:** Ainda não realizei projetos grandes envolvendo as áreas do meu curso, somente trabalhos acadêmicos.
