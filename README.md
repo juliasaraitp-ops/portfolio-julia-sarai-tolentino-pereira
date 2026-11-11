@@ -15,8 +15,7 @@ Atualmente cursando o segundo período de Análise e Desenvolvimento de Sistemas
 * **Experiência/Projetos Relevantes:** Ainda não realizei projetos grandes envolvendo as áreas do meu curso, somente trabalhos acadêmicos.
 ---
 
-### 🛠 Minhas Ferramentas Favoritas
-#### 💻 Linguagens e Tecnologias
+### 💻 Linguagens e Tecnologias
 - Phyton
 - C
 - HTML5
@@ -24,7 +23,7 @@ Atualmente cursando o segundo período de Análise e Desenvolvimento de Sistemas
 ---
 
 ### 📂 Portfólio de Projetos
-#### 󰳕 Desenvolvimento Front-End para Web
+#### Desenvolvimento Front-End para Web
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Site Básico em HTML5** | Criação de site básico com 5 páginas em HTML5. | [Ver Projeto](./AT1-Páginas-HTML/) |
@@ -36,9 +35,7 @@ Atualmente cursando o segundo período de Análise e Desenvolvimento de Sistemas
 
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
-## 🏗️ Estrutura do Repositório
 
-Abaixo, a organização deste repositório para facilitar a navegação:
 - `README.md`: Arquivo de apresentação principal.
 - [`/AT1-Páginas-HTML/`](./AT1-Páginas-HTML/): Atividade 1 - Site básico em HTML5.
 - [`/AT2-Deploy-de-Site/`](./AT2-Deploy-de-Site/): Atividade 2 - Deploy (publicação) de site no github pages.
