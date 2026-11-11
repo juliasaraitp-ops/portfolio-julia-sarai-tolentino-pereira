@@ -8,11 +8,11 @@ O site reúne contexto, teoria, evidências, um olhar crítico sobre a corrida p
 Desenvolvido em dupla como parte da disciplina de **Desenvolvimento Front-End Para Web (2026.2)**, o projeto cruza os eixos do **Futuro do Trabalho** (hiperconectividade e validação em tempo real) e das **dimensões socioemocionais da Geração Z**. O sistema combina uma base estrutural desenvolvida de forma autoral em HTML5 estritamente semântico, CSS3 com variáveis customizadas (Design System) e Bootstrap 5, integrada a recursos avançados co-desenvolvidos criticamente com Inteligência Artificial Generativa.
 
 
-## Link do repositório
+## 🔗 Link do repositório
 https://github.com/leaoduda1911-cyber/AT5---Front-End-e-Copilotagem-com-IA
 
 
-## Páginas do site
+## 📄 Páginas do site
 
 | Página | Arquivo | Conteúdo |
 
@@ -33,7 +33,7 @@ https://github.com/leaoduda1911-cyber/AT5---Front-End-e-Copilotagem-com-IA
 | [Transparência](https://leaoduda1911-cyber.github.io/AT5---Front-End-e-Copilotagem-com-IA/transparencia.html) | `transparencia.html` | Referências e transparência do projeto |
 
 
-## Termômetro da Vitrine
+## 📝 Termômetro da Vitrine
 Autoteste de reflexão com 10 afirmações sobre o uso do LinkedIn, respondidas em uma escala de 1 (discordo totalmente) a 5 (concordo totalmente).
 
 - Barra de progresso mostrando quantas afirmações foram respondidas.
@@ -50,14 +50,14 @@ Autoteste de reflexão com 10 afirmações sobre o uso do LinkedIn, respondidas 
 * **Modelo de IA:** Gemini e Claude
 * **Fontes:** [DM Sans](https://fonts.google.com/specimen/DM+Sans) e [Manrope](https://fonts.google.com/specimen/Manrope) (Google Fonts)
 
-## Recursos
+## 🛠️ Recursos
 - Layout responsivo, com menu que se adapta ao celular
 - Alternância entre **tema claro e escuro**
 - Cards, acordeões e alertas com estilo próprio
 - Atenção à acessibilidade: `aria-label`, `aria-live`, foco visível e respeito à preferência de movimento reduzido
 
 
-## Estrutura do projeto
+## ⛩️ Estrutura do projeto
 ```
 .
 ├── index.html
@@ -91,11 +91,11 @@ A aplicação atingiu excelente adaptação em diferentes tamanhos de tela (smar
 
 * **Boas Práticas de Versionamento:** Aprimoramos a colaboração em equipe por meio de uma divisão de tarefas equilibrada e do uso rigoroso do Git. Aplicamos o padrão de Conventional Commits (feat:, fix:, style:, docs:, refactor:) para registrar de forma clara a evolução do projeto no repositório compartilhado e garantir um deploy limpo no GitHub Pages.
 
-## Autoras
+## ✍️ Autoras
 - Julia Sarai Tolentino Pereira
 - Maria Eduarda Almeida Pereira
 
-## Aviso
+## ⚠️ Aviso
 Conteúdo educativo. Não substitui avaliação psicológica, orientação de carreira ou consulta às fontes originais.
 
 ## 🧠 Declaração de Uso Ético da IA
