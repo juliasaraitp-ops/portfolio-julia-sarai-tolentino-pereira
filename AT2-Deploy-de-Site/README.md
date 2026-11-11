@@ -15,11 +15,11 @@ Desenvolvida como parte da disciplina de **Desenvolvimento Front-End Para Web (2
 ## 📊 Resultados e Aprendizados
 * Aprendi a publicar um site gratuitamente com o GitHub Pages.
 * Entendi como o repositório se conecta ao endereço público do site.
- * Aprendi a conferir se o site publicado abre corretamente pelo link.
+* Aprendi a conferir se o site publicado abre corretamente pelo link.
 
 
 ## 🧠 Declaração de Uso Ético da IA
-Este projeto utilizou a inteligência artificial Gemini estritamente como ferramenta de suporte tecnológico para o auxílio na estruturação inicial das tags semânticas do HTML5 e na organização do layout e navegação entre as 5 páginas da cafeteria.. Todo o conteúdo gerado foi revisado, testado e compreendido por mim, garantindo a minha responsabilidade integral sobre a autoria final
+Este projeto utilizou a inteligência artificial Gemini estritamente como ferramenta de suporte tecnológico para o auxílio na estruturação inicial das tags semânticas do HTML5 e na organização do layout e navegação entre as 5 páginas da cafeteria. Todo o conteúdo gerado foi revisado, testado e compreendido por mim, garantindo a minha responsabilidade integral sobre a autoria final
 
 
 ## 💻 Deploy do projeto
