@@ -1,5 +1,5 @@
 # Julia Sarai Tolentino Pereira
-> Estudante de Análise e Desenvolvimento de Sistemas
+> Estudante de Análise e Desenvolvimento de Sistemas focada na criação de aplicações web com HYML5, CSS3, Bootstrap e JavaScript.
 ---
 
 ### 📫 Contato & Redes Sociais
