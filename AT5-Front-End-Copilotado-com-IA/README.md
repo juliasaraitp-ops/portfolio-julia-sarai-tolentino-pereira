@@ -1,10 +1,11 @@
 # # AT5---Front-End-e-Copilotagem-com-IA
-# Efeito Vitrine
+# ## 📝 Descrição do Projeto Efeito Vitrine
 
-
-Projeto acadêmico sobre **comparação social, FOMO profissional e estudantes de TI**, com foco no uso do LinkedIn como "vitrine" da carreira.
+Este projeto consiste em um site informativo e interativo chamama **Efeito Vitrine** que investiga como a comparação social com conquistas publicadas no LinkedIn alimenta o FOMO profissional e a corrida por certificações em estudantes de TI. O objetivo principal é mostrar, com dados e pesquisa, como a "vitrine" de conquistas alheias gera ansiedade de produtividade, síndrome do impostor e a sensação de estar atrasado na carreira, propondo uma reflexão crítica sobre o tema.
 
 O site reúne contexto, teoria, evidências, um olhar crítico sobre a corrida por certificações, o lado positivo da rede e um autoteste de reflexão.
+
+Desenvolvido em dupla como parte da disciplina de **Desenvolvimento Front-End Para Web (2026.2)**, o projeto cruza os eixos do **Futuro do Trabalho** (hiperconectividade e validação em tempo real) e das **dimensões socioemocionais da Geração Z**. O sistema combina uma base estrutural desenvolvida de forma autoral em HTML5 estritamente semântico, CSS3 com variáveis customizadas (Design System) e Bootstrap 5, integrada a recursos avançados co-desenvolvidos criticamente com Inteligência Artificial Generativa.
 
 
 ## Link do repositório
