@@ -2,8 +2,9 @@
 
 
 ## 📝 Descrição do Projeto
-Esta atividade teve como objetivo praticar a publicação (deploy) de um site utilizando o GitHub Pages. 
-Desenvolvida como parte da disciplina de **Desenvolvimento Front-End Para Web (2026.2)**, a atividade consistiu em publicar um site online e registrar o link da publicação em uma planilha compartilhada com os links de toda a turma.
+Esta atividade teve como objetivo praticar a publicação (deploy) do site **Café e Confeitaria Aconchego** realizado na atividade 1, utilizando o GitHub Pages. 
+
+Desenvolvida como parte da disciplina de **Desenvolvimento Front-End Para Web (2026.2)**, a atividade consistiu em publicar o site online e registrar o link da publicação em uma planilha compartilhada com os links de toda a turma.
 
 
 ## 🚀 Tecnologias Utilizadas
