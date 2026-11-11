@@ -8,7 +8,7 @@
 - Currículo: https://canva.link/5amw7ovecicrdew
 ---
 
-### Sobre
+### 📚 Sobre
 Atualmente cursando o segundo período de Análise e Desenvolvimento de Sistemas na Universidade Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Segurança da Informação, Gestão de Projetos e Inteligência Artificial.
 * **Habilidades Técnicas:** Conhecimento em Python, C, HTML, CSS.
 * **Habilidades Socioemocionais:** Trabalho em equipe, organização, proatividade, boa comunicação, rápido aprendizado e em busca de aprendizado contínuo.
